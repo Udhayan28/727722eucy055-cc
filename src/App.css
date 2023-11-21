@@ -1,0 +1,16 @@
+.s{
+  background-color: green;
+  border: 50%;
+  color: white;
+}
+.r{
+  background-color: red;
+  color: white;
+}
+.m{
+  background-color: lightblue;
+  color: white;
+}
+div{
+  text-align: center;
+}
